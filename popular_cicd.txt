@@ -1,0 +1,9 @@
+Popular CI/CD Tools:
+- GitHub Actions: Built into GitHub, easy to start
+- GitLab CI/CD: Built into GitLab, powerful pipelines
+- Jenkins: Self-hosted, highly customizable
+- CircleCI: Cloud-based, fast builds
+- Travis CI: Simple configuration
+- Azure Pipelines: Microsoft ecosystem
+- AWS CodePipeline: AWS integration
+- ArgoCD: GitOps for Kubernetes

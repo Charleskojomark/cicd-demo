@@ -1,0 +1,9 @@
+Best Practices:
+- Commit often (at least daily)
+- Keep builds fast (< 10 minutes)
+- Test in production-like environments
+- Automate everything possible
+- Monitor pipeline health
+- Fix broken builds immediately
+- Use feature flags for incomplete features
+- Practice trunk-based development

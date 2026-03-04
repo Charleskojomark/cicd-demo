@@ -1,0 +1,6 @@
+Next: GitHub Actions
+- Create .github/workflows/ directory
+- Define workflow YAML files
+- Specify triggers (push, PR, schedule)
+- Define jobs and steps
+- See automated tests run on every commit

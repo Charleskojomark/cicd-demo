@@ -1,0 +1,10 @@
+Workflow structure:
+name: Display name
+on: When to trigger (push, pull_request, schedule, etc.)
+jobs: Dictionary of jobs
+  job_id:
+    runs-on: Runner OS (ubuntu-latest, windows-latest, macos-latest)
+    steps: List of steps
+    - uses: Action to run
+    - run: Shell command
+    - name: Step name
